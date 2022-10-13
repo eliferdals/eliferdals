@@ -5,6 +5,16 @@
 
 Here are some ideas to get you started:
 
+Experienced Engineering student and Professional with a concentration on Mechatronics. Experienced in laboratory work with extensive background in micro greens experimentation. Interested in IoT based design of smart home systems and efficient implementation of technology for greenhouse conservatories.
+
+Experienced Professional with in-depth knowledge of Microsoft Office.
+
+Additional skills in SolidWorks, Matlab, Labview, AutoCAD, IHA Driver, Fritzing, Siemens NX, C#, C+, Python, JavaScript 
+
+Other skills include
+
+#IoT #InternetofThings #Engineers #Engineering #microgreen #verticalfarming #ieee #ieeewomen #wie #womeninengineering
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
