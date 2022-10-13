@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**eliferdals/eliferdals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 <br/> Experienced Engineering student and Professional with a concentration on Mechatronics. Experienced in laboratory work with extensive background in micro greens experimentation. Interested in IoT based design of smart home systems and efficient implementation of technology for greenhouse conservatories.
 
@@ -14,6 +10,10 @@ Additional skills in SolidWorks, Matlab, Labview, AutoCAD, IHA Driver, Fritzing,
 Other skills include
 
 #IoT #InternetofThings #Engineers #Engineering #microgreen #verticalfarming #ieee #ieeewomen #wie #womeninengineering <br/>
+<!--
+**eliferdals/eliferdals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
