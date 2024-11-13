@@ -1,7 +1,9 @@
-### Hello! I'm Elif 👋
+### Hello! 💫 👩🏼‍💻
 
 
-<br/> , a Mechatronics Engineer with a passion for data engineering and data science. Here, I share projects and research that reflect my dedication to advancing in these fields. My goal is to leverage my skills to solve real-world problems and contribute to the tech community. Feel free to explore my repositories to learn more about my journey!
+<br/> I'm a Mechatronics Engineer with a passion for data engineering and data science. Here, I share projects and research that reflect my dedication to advancing in these fields.
+
+My goal is to leverage my skills to solve real-world problems and contribute to the tech community. Feel free to explore my repositories to learn more about my journey!
 
 
 #IoT #InternetofThings #Engineers #Engineering #microgreen #verticalfarming #ieee #ieeewomen #wie #womeninengineering <br/>
