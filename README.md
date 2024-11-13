@@ -41,8 +41,7 @@
 <img title="Spark" alt="Spark" src="assets/apache_spark.svg" width="80" height="50" style="vertical-align:down; margin:4px"/> 
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>   
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="50" /></a>  
@@ -52,10 +51,16 @@
 <a href="https://cassandra.apache.org/_/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_cassandra-icon.svg" alt="Cassandra" height="50" /></a>   
 </div>
 
-<br/>                 
+## 👇 Check out my latest Medium blog
 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ndleah/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ndleah/0" alt="Recent Article 0"> 
+</a>
 
+## Metrics 📈
+![Metrics](/github-metrics.svg)
+<br>
 
+<br/> 
 #IoT #womeninengineering <br/>
 <!--
 **eliferdals/eliferdals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
