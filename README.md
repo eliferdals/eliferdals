@@ -7,7 +7,7 @@
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> I'm [Elif](https://www.linkedin.com/in/eliferdal/) and welcome to my GitHub profile! :octocat:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=21&duration=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=I'm+a+Data+Engineer%2C+;an+Open-source+Contributor;+and+a+Content+Creator!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=21&duration=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=I'm+a+Data+Engineer%2C+;+and+a+Mechatronics+Engineer!)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/eliferdals?label=Follow&style=social)](https://github.com/eliferdals/?tab=follow)
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:erdalselif@gmail.com)](mailto:erdalselif@gmail.com)
