@@ -5,6 +5,7 @@
 
 My goal is to leverage my skills to solve real-world problems and contribute to the tech community. Feel free to explore my repositories to learn more about my journey!
 
+![image](https://github.com/user-attachments/assets/6be5c818-972c-4bf5-ac35-9a75bc67399c)
 
 #IoT #womeninengineering <br/>
 <!--
