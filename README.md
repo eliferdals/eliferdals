@@ -1,13 +1,8 @@
-### Hi there 👋
+### Hello! I'm Elif 👋
 
 
-<br/> Experienced Engineering student and Professional with a concentration on Mechatronics. Experienced in laboratory work with extensive background in micro greens experimentation. Interested in IoT based design of smart home systems and efficient implementation of technology for greenhouse conservatories.
+<br/> , a Mechatronics Engineer with a passion for data engineering and data science. Here, I share projects and research that reflect my dedication to advancing in these fields. My goal is to leverage my skills to solve real-world problems and contribute to the tech community. Feel free to explore my repositories to learn more about my journey!
 
-Experienced Professional with in-depth knowledge of Microsoft Office.
-
-Additional skills in SolidWorks, Matlab, Labview, AutoCAD, IHA Driver, Fritzing, Siemens NX, C#, C+, Python, JavaScript 
-
-Other skills include
 
 #IoT #InternetofThings #Engineers #Engineering #microgreen #verticalfarming #ieee #ieeewomen #wie #womeninengineering <br/>
 <!--
