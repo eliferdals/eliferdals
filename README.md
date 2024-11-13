@@ -53,7 +53,7 @@
 
 ## 👇 Check out my latest Medium blog
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ndleah/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ndleah/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@eliferdals/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ndleah/0" alt="Recent Article 0"> 
 </a>
 
 ## Metrics 📈
