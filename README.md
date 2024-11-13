@@ -6,7 +6,7 @@
 My goal is to leverage my skills to solve real-world problems and contribute to the tech community. Feel free to explore my repositories to learn more about my journey!
 
 
-#IoT #InternetofThings #Engineers #Engineering #microgreen #verticalfarming #ieee #ieeewomen #wie #womeninengineering <br/>
+#IoT #womeninengineering <br/>
 <!--
 **eliferdals/eliferdals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
