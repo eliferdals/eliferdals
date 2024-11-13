@@ -51,10 +51,6 @@
 <a href="https://cassandra.apache.org/_/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_cassandra-icon.svg" alt="Cassandra" height="50" /></a>   
 </div>
 
-## 👇 Check out my latest Medium blog
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@eliferdals/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@eliferdals/0" alt="Recent Article 0"> 
-</a>
 
 ## Metrics 📈
 ![Metrics](/github-metrics.svg)
