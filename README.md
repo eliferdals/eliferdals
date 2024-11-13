@@ -1,8 +1,12 @@
 ### Hello! 💫 👩🏼‍💻
 
+<p align="right">
+  <img src="https://github.com/user-attachments/assets/6be5c818-972c-4bf5-ac35-9a75bc67399c" alt="Profile Image" width="300">
+</p>
+
 
 <br/> I'm a Mechatronics Engineer with a passion for data engineering and data science. 
-Here, I share projects and research that reflect my dedication to advancing in these fields.                 ![image](https://github.com/user-attachments/assets/6be5c818-972c-4bf5-ac35-9a75bc67399c)
+Here, I share projects and research that reflect my dedication to advancing in these fields.                 
 
 
 My goal is to leverage my skills to solve real-world problems and contribute to the tech community. 
