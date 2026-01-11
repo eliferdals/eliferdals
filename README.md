@@ -7,7 +7,7 @@
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> I'm [Elif](https://www.linkedin.com/in/eliferdal/) and welcome to my GitHub profile! :octocat:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=21&duration=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=I'm+a+Data+Engineer%2C+;+and+a+Mechatronics+Engineer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=21&duration=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=I'm+a+MachineLearning+Engineer%2C+;+and+a+MLops+Engineer!)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/eliferdals?label=Follow&style=social)](https://github.com/eliferdals/?tab=follow)
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:erdalselif@gmail.com)](mailto:erdalselif@gmail.com)
@@ -23,13 +23,13 @@
 
 **Fun facts:**
 
-👩‍🎓 Mechatronics Engineer with a passion for data engineering and data science. 
+👩‍🎓 Mechatronics Engineer with a passion for machine learning engineering and cloud science. 
   
 🌞 My goal is to leverage my skills to solve real-world problems and contribute to the tech community. 
   
 🍒 Feel free to explore my repositories to learn more about my journey!
   
-🌐💡 Obsessed with Data Engineering, DataOps, and turning complex data architectures into efficient, scalable solutions. Let’s streamline those data pipelines and transform raw data into meaningful results! 
+🌐💡 Obsessed with ML Engineering, MLops, and turning complex data architectures into efficient, scalable solutions. Let’s streamline those data pipelines and transform raw data into meaningful results! 
 
 <br>
 
