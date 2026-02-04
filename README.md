@@ -52,7 +52,7 @@
 <a href="https://cassandra.apache.org/_/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_cassandra-icon.svg" alt="Cassandra" height="50" /></a> 
 <a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastApi" height="50" /></a>
 <a href="https://kubernetes.io/">
-  <img src="https://www.datamation.com/wp-content/uploads/2021/01/3-31510_svg-kubernetes-logo-hd-png-download.png" alt="K8S" height="50"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" height="45" alt="Kubernetes"/>
 </a>
 <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>
 <a href="https://www.terraform.io/">
